@@ -1,3 +1,3 @@
 # My first repo
-Mahnoor
+Author Mahnoor
 noor@gmail.com
